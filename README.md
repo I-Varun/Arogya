@@ -4,10 +4,11 @@ Arogya is a comprehensive healthcare mobile application designed to provide user
 
 ## Contributors
 
-- *Ankan Kumar Mitra*
 - *Varun Singh*
+- *Ankan kumar Mitra*
 - *Parthib Dutta*
 - *Soutik Mandal*
+- *Aritra Khanra*
 
 ## Project Overview
 
@@ -45,7 +46,16 @@ To get a local copy up and running, follow these steps:
 
 ### Clone the Repository
 
-```bash
+bash
 git clone https://github.com/ankanmitra2002/Arogya.git
 cd Arogya
 
+### Install the dependencies
+
+bash
+flutter pub get
+
+### Run the code
+
+bash
+flutter run
