@@ -47,7 +47,7 @@ To get a local copy up and running, follow these steps:
 ### Clone the Repository
 
 bash
-git clone https://github.com/ankanmitra2002/Arogya.git
+git clone https://github.com/I-Varun/Arogya.git
 cd Arogya
 
 ### Install the dependencies
